@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --gradient: linear-gradient(100deg, #FF008E 0%, #FFCD1E 100%);
+
+  --green: #1B873F;
+  --pink: #FF008E;
+  --orange: #FFA29;
+  --yellow: #FFCD1E;
+  --black-1: #09090A;
+  --black-2: #121214;
+  --black-3: #202024;
+  --gray-4: #29292E;
+  --gray-1: #8D8D99;
+  --gray-2: #C4C4CC;
+  --gray-3: #E1E1E6;
+  --white: #FFFFFF;
+}
+
+body {
+  color: #e1e1e6;
+  background: #121214;
+}
